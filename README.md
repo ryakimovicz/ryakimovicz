@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy un apasionado por la lógica y la ingeniería de software, recientemente graduado como **Técnico Universitario en Programación** (UTN) con un promedio de **8,88**.
+Soy un apasionado por la lógica y la ingeniería de software, recientemente graduado como **Técnico Universitario en Programación** (UTN).
 
 Mi enfoque está en el **Backend**, donde disfruto construyendo APIs robustas, diseñando bases de datos eficientes y resolviendo problemas complejos con código limpio. Actualmente me encuentro en búsqueda activa de mi primera experiencia formal en IT, mientras sigo desarrollando proyectos que ponen a prueba mis habilidades y expanden mi conocimiento.
 
@@ -44,39 +44,30 @@ Mi enfoque está en el **Backend**, donde disfruto construyendo APIs robustas, d
 
 Mi camino en la programación ha sido constante, intensivo y enfocado en la excelencia académica:
 
-#### **2024 - 2025 | Tecnicatura Universitaria en Programación**
+#### **Tecnicatura Universitaria en Programación | Marzo 2024 - Diciembre 2025**
 🏛️ *Universidad Tecnológica Nacional (Facultad Regional Delta)*
-> Finalicé la carrera en diciembre de 2025 con un **promedio general de 8,88/10**.
+> Promedio general de 8,88/10.
 > * **Programación y POO:** Formación sólida en lógica, algoritmos complejos y patrones de diseño utilizando **C# (.NET)** y **Python**.
 > * **Laboratorios:** Desarrollo práctico de aplicaciones de escritorio y scripts de automatización, aplicando arquitectura en capas.
 > * **Gestión de Datos:** Diseño de bases de datos relacionales, normalización y consultas avanzadas en SQL Server y MySQL.
 > * **Ingeniería de Software:** Análisis de requisitos, metodologías de desarrollo, control de versiones y diagramado técnico (UML).
 
-#### **2025 | Especialización Backend (Oracle Next Education)**
-☕ *Oracle + Alura Latam*
-> Formación intensiva de +300 horas finalizada en julio de 2025.
+#### **Especialización Backend (Oracle Next Education) | Febrero - Julio 2025**
+💻 *Oracle + Alura Latam*
+> Formación intensiva de +300 horas.
 > * **Desarrollo Backend:** Profundización en Java, Spring Boot, Spring Data JPA y creación de APIs REST.
 > * **Desarrollo Profesional:** Gestión del tiempo, trabajo colaborativo y metodologías ágiles.
 
-#### **2023 | Argentina Programa 4.0**
-🎓 *Universidad de Buenos Aires (Facultad de Ingeniería)*
-> Mi puerta de entrada al mundo IT (Feb - Oct 2023).
-> * **Contenido:** Introducción a la programación, lógica computacional y Python Inicial.
-
-#### **2024 | Programa Tu Empleo**
+#### **Programa Tu Empleo | Marzo - Julio 2024**
 🤝 *Fundación Pléroma*
 > Capacitación laboral enfocada en habilidades blandas y empleabilidad (Marzo - Julio 2024).
 
+#### **Argentina Programa 4.0 | Febrero - Julio 2023**
+🎓 *Universidad de Buenos Aires (Facultad de Ingeniería)*
+> Mi puerta de entrada al mundo IT.
+> * **Contenido:** Introducción a la programación, lógica computacional y Python Inicial.
+
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryakimovicz&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryakimovicz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
 
 <div align="center"> 
   <i>¡Gracias por visitar mi perfil! Si te interesa mi trabajo, no dudes en conectar conmigo en LinkedIn.</i>
