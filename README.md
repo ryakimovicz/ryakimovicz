@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Román Yakimovicz 👋</h1>
-  <h3 align="center">Backend Developer | Python • Java • C# .NET</h3>
+  <h3 align="center">Full Stack Developer | Python • Web • SQL | Java & .NET</h3>
   
   <p align="center">
     <a href="https://ryakimovicz.github.io/portfolio/cv_roman_yakimovicz.pdf">
@@ -24,7 +24,7 @@
 
 Soy un apasionado por la lógica y la ingeniería de software, recientemente graduado como **Técnico Universitario en Programación** (UTN).
 
-Mi enfoque está en el **Backend**, donde disfruto construyendo APIs robustas, diseñando bases de datos eficientes y resolviendo problemas complejos con código limpio. Actualmente me encuentro en búsqueda activa de mi primera experiencia formal en IT, mientras sigo desarrollando proyectos que ponen a prueba mis habilidades y expanden mi conocimiento.
+Poseo un perfil **Full Stack** con una base sólida en **Python, Desarrollo Web y SQL**, complementada con formación en **Java y C# (.NET)**. Disfruto construyendo soluciones integrales, desde el diseño de bases de datos eficientes hasta la implementación de interfaces funcionales, siempre priorizando el código limpio y la escalabilidad.
 
 ---
 
@@ -32,9 +32,9 @@ Mi enfoque está en el **Backend**, donde disfruto construyendo APIs robustas, d
 
 <div align="center">
 
-| Lenguajes | Frameworks & Herramientas | Bases de Datos |
+| Lenguajes & Web | Frameworks & Backend | Bases de Datos & Herramientas |
 | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) | ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/sql_server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
 </div>
 
@@ -47,10 +47,10 @@ Mi camino en la programación ha sido constante, intensivo y enfocado en la exce
 #### **Tecnicatura Universitaria en Programación | Marzo 2024 - Diciembre 2025**
 🏛️ *Universidad Tecnológica Nacional (Facultad Regional Delta)*
 > Promedio general de 8,88/10.
-> * **Programación y POO:** Formación sólida en lógica, algoritmos complejos y patrones de diseño utilizando **C# (.NET)** y **Python**.
-> * **Laboratorios:** Desarrollo práctico de aplicaciones de escritorio y scripts de automatización, aplicando arquitectura en capas.
-> * **Gestión de Datos:** Diseño de bases de datos relacionales, normalización y consultas avanzadas en SQL Server y MySQL.
-> * **Ingeniería de Software:** Análisis de requisitos, metodologías de desarrollo, control de versiones y diagramado técnico (UML).
+> * **Programación y Algoritmos:** Formación sólida en lógica computacional y estructuras de datos utilizando **Python** como lenguaje dinámico, complementado con Programación Orientada a Objetos en **C# (.NET)**.
+> * **Frontend e Integración Web:** Implementación de soluciones de software aplicando fundamentos de HTML, CSS y JavaScript, con enfoque en la integración de lógica de negocio.
+> * **Gestión de Datos:** Diseño exhaustivo de bases de datos relacionales, normalización y consultas avanzadas en SQL Server y MySQL.
+> * **Ingeniería de Software:** Análisis de requisitos, metodologías de desarrollo, control de versiones y diagramado técnico.
 
 #### **Especialización Backend (Oracle Next Education) | Febrero - Julio 2025**
 💻 *Oracle + Alura Latam*
@@ -60,7 +60,7 @@ Mi camino en la programación ha sido constante, intensivo y enfocado en la exce
 
 #### **Programa Tu Empleo | Marzo - Julio 2024**
 🤝 *Fundación Pléroma*
-> Capacitación laboral enfocada en habilidades blandas y empleabilidad (Marzo - Julio 2024).
+> Capacitación laboral enfocada en habilidades blandas y empleabilidad.
 
 #### **Argentina Programa 4.0 | Febrero - Julio 2023**
 🎓 *Universidad de Buenos Aires (Facultad de Ingeniería)*
